@@ -21,6 +21,11 @@
 - 高精度坐标定位
 - 自动化测试集成
 
+## ✨ 训练方案与训练代码
+
+[道满PythonAI深度学习实战教程：YOLO目标检测 + 孪生网络实现验证码匹配](https://daomanpy.com/cnn/text_select_captcha)
+
+
 ## 📸 效果展示
 
 <img src="./docs/res.gif" alt="演示动图" width="500"/>
